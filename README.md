@@ -196,7 +196,7 @@ I am building and documenting projects as I continue developing my cybersecurity
 
 **Python-based projects focused on cybersecurity learning and automation.**
 
-`Repository:` **[YOUR_REPOSITORY_LINK]**
+`Repository:` 
 
 ---
 
@@ -204,7 +204,7 @@ I am building and documenting projects as I continue developing my cybersecurity
 
 **Projects and exercises related to web application security testing.**
 
-`Repository:` **[YOUR_REPOSITORY_LINK]**
+`Repository:` 
 
 ---
 
@@ -212,7 +212,7 @@ I am building and documenting projects as I continue developing my cybersecurity
 
 **Documented vulnerability research, analysis, and security learning.**
 
-`Repository:` **[YOUR_REPOSITORY_LINK]**
+`Repository:` 
 
 ---
 
@@ -220,7 +220,7 @@ I am building and documenting projects as I continue developing my cybersecurity
 
 **Security-focused automation and scripting projects.**
 
-`Repository:` **[YOUR_REPOSITORY_LINK]**
+`Repository:` 
 
 ---
 
@@ -228,7 +228,7 @@ I am building and documenting projects as I continue developing my cybersecurity
 
 **Notes, references, practical guides, and resources developed or collected during my learning journey.**
 
-`Repository:` **[YOUR_REPOSITORY_LINK]**
+`Repository:` 
 
 ---
 
